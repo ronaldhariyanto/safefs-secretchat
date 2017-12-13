@@ -1,0 +1,30 @@
+{
+  "name": "safefs-secretchat",
+  "version": "1.0.0",
+  "description": "SAFE FS Chat Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldhariyanto/safefs-secretchat.git"
+  },
+  "keywords": [
+    "Safe",
+    "FS",
+    "Chat"
+  ],
+  "author": "ronaldhariyanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldhariyanto/safefs-secretchat/issues"
+  },
+  "homepage": "https://github.com/ronaldhariyanto/safefs-secretchat#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "vue.js": "^0.3.2"
+  }
+}
